@@ -1,0 +1,1 @@
+Blog card dimension : 4846 * 3431 (without aspect ratio)
